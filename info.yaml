@@ -37,13 +37,13 @@ pinout:
 
   # Bidirectional pins
   uio[0]: "EXTOUT0"
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[1]: "EXTOUT1"
+  uio[2]: "EXTOUT2"
+  uio[3]: "EXTOUT3"
+  uio[4]: "EXTOUT4"
+  uio[5]: "EXTOUT5"
+  uio[6]: "EXTOUT6"
+  uio[7]: "EXTOUT7"
 
 # Do not change!
 yaml_version: 6
